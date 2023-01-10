@@ -17,7 +17,57 @@ img {
 
 a {
     display: block;
-    background-color: darkgreen;
+    background-color: rgb(103, 167, 103);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a#yt {
+    display: block;
+    background-color: red;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a#twt {
+    display: block;
+    background-color: rgb(26, 156, 196);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a#gh {
+    display: block;
+    background-color: rgb(14, 202, 71);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a#inst {
+    display: block;
+    background-color: rgb(230, 56, 56);
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a#fb {
+    display: block;
+    background-color: rgb(66, 103, 178);
     color: white;
     padding: 20px;
     text-align: center;
