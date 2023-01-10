@@ -15,16 +15,6 @@ img {
     width: 100vw;
 }
 
-a {
-    display: block;
-    background-color: rgb(103, 167, 103);
-    color: white;
-    padding: 20px;
-    text-align: center;
-    font-weight: bolder;
-    text-decoration: none;
-}
-
 a#yt {
     display: block;
     background-color: red;
@@ -37,7 +27,7 @@ a#yt {
 
 a#twt {
     display: block;
-    background-color: rgb(26, 156, 196);
+    background-color: rgb(29, 161, 242);
     color: white;
     padding: 20px;
     text-align: center;
@@ -47,7 +37,7 @@ a#twt {
 
 a#gh {
     display: block;
-    background-color: rgb(14, 202, 71);
+    background-color: rgb(108, 198, 68);
     color: white;
     padding: 20px;
     text-align: center;
@@ -57,7 +47,7 @@ a#gh {
 
 a#inst {
     display: block;
-    background-color: rgb(230, 56, 56);
+    background-color: rgb(193, 53, 132);
     color: white;
     padding: 20px;
     text-align: center;
